@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ghoshakappweb2000'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2400BD24DCE9458D91C8139DB6BA95C3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9502AE57950C4D7A80516D6DC4BB87F9 }}
           package: .
